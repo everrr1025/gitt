@@ -1,7 +1,7 @@
 
 const addLine = (a,b)=>{
 	let x = 'haha my name is Honda haha'
-	return a+b;
+	return a + b;
 }
 
 let t = 'who r u , my name is Hongda';
